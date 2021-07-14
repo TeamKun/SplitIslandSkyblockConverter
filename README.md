@@ -1,8 +1,8 @@
-# WorldSliceConverter
+# SplitIslandSkyblockConverter
 
-### ワールドスライスコンバーター
+### スカイブロックアイランドコンバーター
 
-![地形イメージ](https://cdn.discordapp.com/attachments/797220314983301150/858463382402498580/unknown.png)
+![地形イメージ](https://cdn.discordapp.com/attachments/611227726971404298/864926833581621268/unknown.png)
 
 ### 使い方
 
@@ -14,7 +14,7 @@
      |- region
      |   |- r.0.0.mca
      |   |- r.0.1.mca
-     |   \- flatworld-X.X-SNAPSHOT.jar ← ここに配置
+     |   \- splitislandconverter-X.X-SNAPSHOT.jar ← ここに配置
      |- data
      |- datapack
      |- serverconfig
@@ -26,4 +26,4 @@
 
 #### 高さ変更方法
 3. cmdで引数に高さを入力します。  
-   `java -jar flatworld-X.X-SNAPSHOT.jar <高さ>`
+   `java -jar splitislandconverter-X.X-SNAPSHOT.jar <高さ>`
